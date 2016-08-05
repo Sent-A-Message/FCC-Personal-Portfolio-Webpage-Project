@@ -9,4 +9,4 @@ Continuing project to help build basic front end skills
 
 ## License
 
-License MIT
+See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
