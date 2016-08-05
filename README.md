@@ -1,7 +1,7 @@
 
 ##  FCC-Personal-Portfolio-Webpage-Project
 
-Free Code Camp Personal Portfolio Webpage Project. HTML and inline CSS, and JavaScript
+Free Code Camp Personal Portfolio Webpage Project. Single page HTML with on page CSS, and JavaScript.
 
 ## Motivation
 
