@@ -8,7 +8,7 @@ Continuing project to help build basic front end skills, along with optimizing l
 
 #Link
 
-link to working projected [https://sent-a-message.github.io/FCC-Personal-Portfolio-Webpage-Project/](https://sent-a-message.github.io/FCC-Personal-Portfolio-Webpage-Project/)
+link to working projected [https://twf.github.io/FCC-Personal-Portfolio-Webpage-Project/](https://twf.github.io/FCC-Personal-Portfolio-Webpage-Project/)
 
 ## License
 
